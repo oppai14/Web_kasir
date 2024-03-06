@@ -1,8 +1,8 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="https://uinsgd.ac.id/" class="brand-link">
-      <img src="{{ asset('img/kasir.jpg') }}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">KASIRME</span>
+      <!-- <img src="{{ asset('img/kasir.jpg') }}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8"> -->
+      <span class="brand-text font-weight-light">Toko Regina</span>
     </a>
   
     <!-- Sidebar -->

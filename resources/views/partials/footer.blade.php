@@ -1,4 +1,6 @@
 <footer class="main-footer">
+<script src="{{ asset('js/jquery.min.js') }}"></script>
+
     <!-- To the right -->
     <div class="float-right d-none d-sm-inline">
       Anything you want
